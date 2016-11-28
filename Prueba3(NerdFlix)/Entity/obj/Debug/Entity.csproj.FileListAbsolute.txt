@@ -1,0 +1,5 @@
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Entity\bin\Debug\Entity.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Entity\bin\Debug\Entity.pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Entity\obj\Debug\Entity.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Entity\obj\Debug\Entity.pdb

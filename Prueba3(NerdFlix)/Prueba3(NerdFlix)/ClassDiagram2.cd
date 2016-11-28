@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prueba3_NerdFlix_.Pelicula">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAIEAAADBAAAAQAAEAABABA=</HashCode>
+      <FileName>Clases\Pelicula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba3_NerdFlix_.Usuario">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAACQAIACkACAAgAAAAAAAAAAAAAAAQBAAAEI=</HashCode>
+      <FileName>Clases\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba3_NerdFlix_.Clases.Venta">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAQAAAAAAABAAAAAQAQBAQAAAQEAAAAA=</HashCode>
+      <FileName>Clases\Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

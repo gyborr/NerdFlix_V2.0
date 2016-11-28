@@ -1,0 +1,29 @@
+﻿<Window x:Class="Prueba3_NerdFlix_.Inventario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Inventario" Height="579" Width="672">
+    <Grid Height="517" Background="#FFA79898" Width="637">
+        <Image Height="61" HorizontalAlignment="Left" Margin="571,0,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="64" Source="/Prueba3%28NerdFlix%29;component/Images/logo2.PNG" />
+        <Menu Height="61" HorizontalAlignment="Left" Name="menu1" VerticalAlignment="Top" Width="574">
+            <MenuItem Header="INGRESO">
+                <MenuItem.Icon>
+                    <Image Source="/Prueba3%28NerdFlix%29;component/Images/INGR.PNG" />
+                </MenuItem.Icon>
+                <MenuItem Header="Ingreso de Peliculas" Click="MenuItem_Click_IngresoPelis"/>
+            <Separator/>
+                <MenuItem Header="Ingreso de Clientes" Click=" MenuItem_Click_IngresoClientes"/>
+            </MenuItem>
+            <MenuItem Header="LISTAR">
+                <MenuItem.Icon>
+                    <Image Source="/Prueba3%28NerdFlix%29;component/Images/LIS.PNG" />
+                </MenuItem.Icon>
+                <MenuItem Header="Listar Peliculas" Click="MenuItem_Click_ListarPelis"/>
+            <Separator/>
+            <MenuItem Header="Listar Clientes" Click="MenuItem_Click_ListarUsu"/>
+            </MenuItem>
+        </Menu>
+        <Image Height="163" HorizontalAlignment="Left" Margin="0,59,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="635" Source="/Prueba3%28NerdFlix%29;component/Images/accion.PNG" />
+        <Image Height="150" HorizontalAlignment="Left" Margin="0,220,0,0" Name="image3" Stretch="Fill" VerticalAlignment="Top" Width="635" Source="/Prueba3%28NerdFlix%29;component/Images/tendencias.PNG" />
+        <Image Height="155" Margin="0,362,0,0" Name="image4" Stretch="Fill" VerticalAlignment="Top" Source="/Prueba3%28NerdFlix%29;component/Images/thiler.PNG" />
+    </Grid>
+</Window>

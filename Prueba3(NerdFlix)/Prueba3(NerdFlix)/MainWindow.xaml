@@ -1,0 +1,29 @@
+﻿<Window x:Class="Prueba3_NerdFlix_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="452" Width="598">
+    <Grid Background="#FFD20004">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="519*" />
+            <ColumnDefinition Width="57*" />
+        </Grid.ColumnDefinitions>
+        <ComboBox Height="9" HorizontalAlignment="Left" Margin="27,359,0,0" Name="comboBox1" VerticalAlignment="Top" Width="0" />
+        <TextBox Height="221" HorizontalAlignment="Left" Margin="66,31,0,0" Name="textBox1" VerticalAlignment="Top" Width="453">
+            <TextBox.Background>
+                <ImageBrush ImageSource="/Prueba3%28NerdFlix%29;component/Images/logo.PNG" />
+            </TextBox.Background>
+        </TextBox>
+        <Grid Background="#FFB7C4D4" Margin="105,281,56,30">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300*" />
+                <ColumnDefinition Width="112*" />
+            </Grid.ColumnDefinitions>
+            <Button Content="Ingresar" Height="23" HorizontalAlignment="Left" Margin="0,20,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" Grid.Column="1" />
+            <TextBox Height="23" HorizontalAlignment="Left" Margin="106,20,0,0" Name="textBox2" VerticalAlignment="Top" Width="120" />
+            <Label Content="Usuario" Height="28" HorizontalAlignment="Left" Margin="17,15,0,0" Name="label1" VerticalAlignment="Top" Width="56" />
+            <Label Content="Contraseña" Height="28" HorizontalAlignment="Left" Margin="17,59,0,0" Name="label2" VerticalAlignment="Top" Width="73" />
+            <Button Content="Salir" Height="23" HorizontalAlignment="Left" Margin="0,64,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" Grid.Column="1" />
+            <PasswordBox Height="23" HorizontalAlignment="Left" Margin="106,59,0,0" Name="passwordBox1" VerticalAlignment="Top" Width="120" />
+        </Grid>
+    </Grid>
+</Window>

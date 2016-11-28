@@ -1,0 +1,18 @@
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\bin\Debug\Clases.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Negocio\bin\Debug\Clases.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Negocio.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Negocio.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Clases.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Clases.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.pdb

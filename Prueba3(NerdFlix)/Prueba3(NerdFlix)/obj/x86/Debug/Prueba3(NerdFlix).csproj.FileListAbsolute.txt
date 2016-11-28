@@ -1,0 +1,191 @@
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).exe
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).pdb
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.baml
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.g.cs
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\App.g.cs
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix)_MarkupCompile.cache
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).g.resources
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3_NerdFlix_.Properties.Resources.resources
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).exe
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).pdb
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuario.baml
+c:\users\jose\documents\visual studio 2010\Projects\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuario.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).exe
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).pdb
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).exe
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).pdb
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuario.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuario.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\App.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix)_MarkupCompile.cache
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).g.resources
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3_NerdFlix_.Properties.Resources.resources
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csproj.GenerateResource.Cache
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csprojResolveAssemblyReference.cache
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).exe
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).pdb
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix)_MarkupCompile.cache
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).g.resources
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3_NerdFlix_.Properties.Resources.resources
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csproj.GenerateResource.Cache
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).exe
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).pdb
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\App.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuario.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuario.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.g.cs
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csprojResolveAssemblyReference.cache
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.baml
+G:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.baml
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.g.cs
+F:\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).exe
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).exe
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Negocio.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Negocio.pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csprojResolveAssemblyReference.cache
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuarios.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.baml
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuarios.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\App.g.cs
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix)_MarkupCompile.cache
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).g.resources
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3_NerdFlix_.Properties.Resources.resources
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csproj.GenerateResource.Cache
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Datos.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Datos.pdb
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Clases.dll
+C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Clases.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).exe
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).exe
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Clases.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Negocio.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Datos.dll
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Clases.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Negocio.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Datos.pdb
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csprojResolveAssemblyReference.cache
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuarios.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.baml
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuarios.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\App.g.cs
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix)_MarkupCompile.cache
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).g.resources
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3_NerdFlix_.Properties.Resources.resources
+D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csproj.GenerateResource.Cache
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).exe
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).pdb
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csprojResolveAssemblyReference.cache
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuarios.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.baml
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Clientes.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\CompraClientes.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Peliculas .g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ingreso de Clientes.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Informes.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MainWindow.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuAdmin.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MenuUsuarios.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\MisPelis.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Peliculas.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Ranking.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\App.g.cs
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix)_MarkupCompile.cache
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).g.resources
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3_NerdFlix_.Properties.Resources.resources
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\obj\x86\Debug\Prueba3(NerdFlix).csproj.GenerateResource.Cache
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).exe
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Prueba3(NerdFlix).pdb
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Clases.dll
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Negocio.dll
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Datos.dll
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Clases.pdb
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Negocio.pdb
+F:\NerdFlix_V2.0\Prueba3(NerdFlix)\Prueba3(NerdFlix)\bin\Debug\Datos.pdb
