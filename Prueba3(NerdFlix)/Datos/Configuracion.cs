@@ -12,7 +12,7 @@ namespace Datos
         {
             try
             {
-                SqlConnection cn = new SqlConnection(@"Data Source=JOSE;Initial Catalog=nerdflix;Persist Security Info=True;User ID=sa;Password=sa");
+                SqlConnection cn = new SqlConnection(@"Data Source=DESKTOP-9GOTC0R\MSSQLSERVER1;Initial Catalog=nerdflix;Persist Security Info=True;User ID=sa;Password=Sa2016");
 
                 return cn;
             }

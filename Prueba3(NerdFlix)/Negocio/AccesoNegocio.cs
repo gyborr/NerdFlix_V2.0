@@ -26,9 +26,9 @@ namespace Negocio
         }
 
 
-        public int Insert(Pelicula p)
+        public int InsertPeliculas(Pelicula p)
         {
-            return new AccesoDatos().Insert(p);
+            return new AccesoDatos().InsertPeliculas(p);
         }
         //public int Insert(Venta v)
         //{
@@ -43,6 +43,11 @@ namespace Negocio
         public DataSet GeneroPeliculas()
         {
             return new AccesoDatos().GeneroPeliculas();
+
+        }
+        public DataTable ListarGeneros()
+        {
+            return new AccesoDatos().ListarGeneros();
         }
 
 

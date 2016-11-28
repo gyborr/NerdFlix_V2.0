@@ -16,3 +16,12 @@ D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.pdb
 D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.dll
 D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Negocio.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Negocio.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Clases.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Clases.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\bin\Debug\Datos.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Negocio\obj\Debug\Negocio.pdb

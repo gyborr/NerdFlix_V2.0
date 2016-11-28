@@ -12,3 +12,10 @@ D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\bin\Debug\Clases.pdb
 D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\obj\Debug\Datos.dll
 D:\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\obj\Debug\Datos.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\obj\Debug\Datos.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\bin\Debug\Datos.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\bin\Debug\Datos.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\bin\Debug\Clases.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\bin\Debug\Clases.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Datos\obj\Debug\Datos.pdb

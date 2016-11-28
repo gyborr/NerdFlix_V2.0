@@ -3,3 +3,8 @@ C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Clases\bin\Debug\Clas
 C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
 C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Clases\obj\Debug\Clases.dll
 C:\Users\Abdon\Desktop\proyecto nerdflix\Prueba3(NerdFlix)\Clases\obj\Debug\Clases.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Clases\bin\Debug\Clases.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Clases\bin\Debug\Clases.pdb
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Clases\obj\Debug\Clases.dll
+E:\VisualStudio\Proyectos_Jose\NerdFlix_V2.0\Prueba3(NerdFlix)\Clases\obj\Debug\Clases.pdb

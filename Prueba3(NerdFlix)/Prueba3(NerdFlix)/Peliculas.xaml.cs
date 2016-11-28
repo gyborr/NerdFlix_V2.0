@@ -27,7 +27,8 @@ namespace Prueba3_NerdFlix_
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             AccesoNegocio n = new AccesoNegocio();
-            //dataGridPeliculas.ItemsSource = n.ObtenerPeliculas().Tables[0].DefaultView;
+
+            dg.ItemsSource = n.ObtenerPeliculas().Tables[0].DefaultView;
         }
 
        

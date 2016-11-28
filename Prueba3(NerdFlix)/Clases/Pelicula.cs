@@ -10,9 +10,11 @@ namespace Clases
         public string titulo { get; set; }
         public int año { get; set; }
         public int duracion { get; set; }
-        public int cod_genero { get; set; }
-        public int stock { get; set; }
-        public int precio { get; set; }
+        public int genero { get; set; }
+        public int cantidad { get; set; }
+        public int valor { get; set; }
+
+
 
     }
 }

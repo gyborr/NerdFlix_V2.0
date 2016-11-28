@@ -29,19 +29,21 @@ namespace Prueba3_NerdFlix_
       
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            AccesoNegocio n = new AccesoNegocio();
-            Pelicula p = new Pelicula();
 
-            p.titulo = textNombrePelicula.Text.ToUpper().Trim();
+            string valor = comboBoxGenero.SelectedValue.ToString();
+            //AccesoNegocio n = new AccesoNegocio();
+            //Pelicula p = new Pelicula();
+
+            //p.titulo = textNombrePelicula.Text.ToUpper().Trim();
             //p.año = Convert.ToInt32(textAño.Text.Trim());
-            p.duracion = Convert.ToInt32(textDuracion.Text.ToUpper().Trim());
-            //p.cod_genero = Convert.ToInt32(comboBoxGenero.Text.ToUpper().Trim());
-            //p.stock = Convert.ToInt32(textStock.Text.ToUpper().Trim());
-            //p.precio = Convert.ToInt32(textPrecio.Text.ToUpper().Trim());
-            
-        
+            //p.duracion = Convert.ToInt32(textDuracion.Text.ToUpper().Trim());
+            //p.genero = Convert.ToInt32(comboBoxGenero.Text.ToUpper().Trim());
+            //p.cantidad = Convert.ToInt32(textStock.Text.ToUpper().Trim());
+            //p.valor = Convert.ToInt32(textPrecio.Text.ToUpper().Trim());
 
-            //n.Insert(p);
+
+
+            //n.InsertPeliculas(p);
         }
         
          //String strCadena = CadenaConexion();
@@ -65,13 +67,14 @@ namespace Prueba3_NerdFlix_
          //        MessageBox.Show(exc.Message);
          //    }
         private void CargaBox(){
-            AccesoNegocio n = new AccesoNegocio();
-            //dgUsuarios.ItemsSource = n.ObtenerEmpleados().Tables[0].DefaultView;
 
-            //AccesoNegocio n = new AccesoNegocio();
-            comboBoxGenero.DisplayMemberPath = "cod_genero";
-            comboBoxGenero.SelectedValuePath = "nombre";
+            AccesoNegocio n = new AccesoNegocio();
             //comboBoxGenero.ItemsSource = n.GeneroPeliculas().Tables[0].DefaultView;
+            comboBoxGenero.DataContext = n.ListarGeneros();
+            //comboBoxGenero.DisplayMemberPath = n.ListarGeneros().Columns[1].ToString();
+            comboBoxGenero.DisplayMemberPath = "Nombre";
+            comboBoxGenero.SelectedValuePath = "Codigo";
+            
             
 
         }
