@@ -1,0 +1,21 @@
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\bin\Debug\Datos.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\bin\Debug\Datos.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\bin\Debug\Clases.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\bin\Debug\Clases.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\obj\Debug\Datos.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Datos\obj\Debug\Datos.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\bin\Debug\Datos.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\bin\Debug\Datos.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\bin\Debug\Clases.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\bin\Debug\Clases.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\obj\Debug\Datos.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Datos\obj\Debug\Datos.pdb
+F:\nerd\NerdFlix\Datos\bin\Debug\Datos.dll
+F:\nerd\NerdFlix\Datos\bin\Debug\Datos.pdb
+F:\nerd\NerdFlix\Datos\bin\Debug\Clases.dll
+F:\nerd\NerdFlix\Datos\bin\Debug\Clases.pdb
+F:\nerd\NerdFlix\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\nerd\NerdFlix\Datos\obj\Debug\Datos.dll
+F:\nerd\NerdFlix\Datos\obj\Debug\Datos.pdb

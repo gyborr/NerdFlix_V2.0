@@ -1,0 +1,8 @@
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Clases\bin\Debug\Clases.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Clases\bin\Debug\Clases.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Clases\obj\Debug\Clases.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Clases\obj\Debug\Clases.pdb
+F:\nerd\NerdFlix\Clases\bin\Debug\Clases.dll
+F:\nerd\NerdFlix\Clases\bin\Debug\Clases.pdb
+F:\nerd\NerdFlix\Clases\obj\Debug\Clases.dll
+F:\nerd\NerdFlix\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,70 @@
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\NerdFlix.exe
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\NerdFlix.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\MainWindow.baml
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\MainWindow.g.cs
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\App.g.cs
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix_MarkupCompile.cache
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.g.resources
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.Properties.Resources.resources
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.csproj.GenerateResource.Cache
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.exe
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\Clases.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\Negocio.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\Datos.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\Clases.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\Negocio.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\bin\Debug\Datos.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.csprojResolveAssemblyReference.cache
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\MenuAdministrador.baml
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\MenuAdministrador.g.cs
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\IngresoClientes.baml
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\NerdFlix\obj\x86\Debug\IngresoClientes.g.cs
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.exe
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\NerdFlix.exe
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\NerdFlix.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\Clases.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\Negocio.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\Datos.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\Clases.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\Negocio.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\bin\Debug\Datos.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\IngresoClientes.baml
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MainWindow.baml
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MenuAdministrador.baml
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\IngresoClientes.g.cs
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MainWindow.g.cs
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MenuAdministrador.g.cs
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\App.g.cs
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix_MarkupCompile.cache
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.g.resources
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.Properties.Resources.resources
+C:\Users\oscar\Desktop\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.csproj.GenerateResource.Cache
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.exe
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.pdb
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\NerdFlix.exe
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\NerdFlix.pdb
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\Clases.dll
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\Negocio.dll
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\Datos.dll
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\Clases.pdb
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\Negocio.pdb
+F:\nerd\NerdFlix\NerdFlix\bin\Debug\Datos.pdb
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.csprojResolveAssemblyReference.cache
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\IngresoClientes.baml
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MainWindow.baml
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MenuAdministrador.baml
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\IngresoClientes.g.cs
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MainWindow.g.cs
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MenuAdministrador.g.cs
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\App.g.cs
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix_MarkupCompile.cache
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.g.resources
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.Properties.Resources.resources
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\NerdFlix.csproj.GenerateResource.Cache
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\IngresoPeliculas.baml
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\IngresoPeliculas.g.cs
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MostrarClientes.baml
+F:\nerd\NerdFlix\NerdFlix\obj\x86\Debug\MostrarClientes.g.cs

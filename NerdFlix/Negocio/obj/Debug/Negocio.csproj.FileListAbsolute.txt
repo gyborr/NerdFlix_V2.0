@@ -1,0 +1,27 @@
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\bin\Debug\Negocio.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\bin\Debug\Negocio.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\bin\Debug\Clases.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\bin\Debug\Datos.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\bin\Debug\Clases.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\bin\Debug\Datos.pdb
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\obj\Debug\Negocio.dll
+c:\users\mda\documents\visual studio 2010\Projects\NerdFlix\Negocio\obj\Debug\Negocio.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\bin\Debug\Negocio.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\bin\Debug\Negocio.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\bin\Debug\Clases.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\bin\Debug\Datos.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\bin\Debug\Clases.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\bin\Debug\Datos.pdb
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\obj\Debug\Negocio.dll
+C:\Users\oscar\Desktop\nerd\NerdFlix\Negocio\obj\Debug\Negocio.pdb
+F:\nerd\NerdFlix\Negocio\bin\Debug\Negocio.dll
+F:\nerd\NerdFlix\Negocio\bin\Debug\Negocio.pdb
+F:\nerd\NerdFlix\Negocio\bin\Debug\Clases.dll
+F:\nerd\NerdFlix\Negocio\bin\Debug\Datos.dll
+F:\nerd\NerdFlix\Negocio\bin\Debug\Clases.pdb
+F:\nerd\NerdFlix\Negocio\bin\Debug\Datos.pdb
+F:\nerd\NerdFlix\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\nerd\NerdFlix\Negocio\obj\Debug\Negocio.dll
+F:\nerd\NerdFlix\Negocio\obj\Debug\Negocio.pdb
